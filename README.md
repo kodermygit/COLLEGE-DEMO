@@ -1,4 +1,4 @@
 # COLLEGE-DEMO
 THIS IS MY GIT REPOSITORY
 <br>
-Author-Ranjan Kumar
+Author-Ranjan Kumar Sinha
